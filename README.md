@@ -17,7 +17,13 @@ puts f.nacci(7)
 puts f.nacci(15)
 ```
 
-And watch it print whichever numbers you ask it to.
+and watch it print whichever numbers you asked it to.
+
+```ruby
+1
+13
+610
+```
 
 ##License
 
